@@ -4,8 +4,8 @@
 
 Inspired by [@maxmcd](https://github.com/maxmcd)'s [Static
 Chess](https://www.val.town/v/maxm/staticChess), `static_chess.exs` is a single
-file Elixir script that runs a no-bloat chess game. Every page is plain html and
-css, and every move is made by clicking a link.
+file Elixir script that runs a zero-bloat chess server. Every page is plain html
+and css, and every move is made by clicking a link.
 
 ## Local
 
